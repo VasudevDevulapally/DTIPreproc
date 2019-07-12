@@ -46,7 +46,6 @@ usage_exit() {
       -E            : don't run the commands, just echo them
       -F            : fast mode for testing (minimal iterations)
 
-On github: https://github.com/danjonpeterson/dti_preproc.git
 
 EOF
     exit 1;
